@@ -1,6 +1,6 @@
 {
   "name": "modular-scale",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A modular scale library and cli",
   "main": "index.js",
   "license": "MIT",
